@@ -1,0 +1,19 @@
+{
+  "name": "AvalonSE",
+  "version": "0.0.1",
+  "description": "Avalon project as the cloud server for Minecraft.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/superjoe30/node-minecraft-protocol.git"
+  },
+  "author": "gjz010",
+  "license": "All right reserved",
+  "engines": {
+    "node": ">=0.10.15"
+  },
+  "dependencies": {
+    "minecraft-protocol": "~0.9.0",
+    "express": "~3.1.1
+  }
+}

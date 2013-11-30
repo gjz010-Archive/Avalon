@@ -1,0 +1,6 @@
+[submodule "node-minecraft-protocol"]
+	path = node-minecraft-protocol
+	url = https://github.com/superjoe30/node-minecraft-protocol.git
+[submodule "node_modules/node-minecraft-protocol"]
+	path = node_modules/node-minecraft-protocol
+	url = https://github.com/superjoe30/node-minecraft-protocol.git
